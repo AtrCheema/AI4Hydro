@@ -1,0 +1,10 @@
+# [Advances in Water Resources](https://www.sciencedirect.com/journal/advances-in-water-resources)
+
+| Citation           | explainable-AI | data   | code | hybrid |   reviews  |
+|--------------------|----------------|--------|------|--------|------------|
+| Tahmasebi, P., Kamrava, S., Bai, T., & Sahimi, M. (2020). **Machine Learning in Geo-and Environmental Sciences: From Small to Large Scale**. Advances in Water Resources, 103619. https://doi.org/10.1016/j.advwatres.2020.103619 |   &#9744;   | &#9744; | &#9744; |  |  |
+| Nguyen, X. H. (2020). **Combining Statistical Machine Learning Models with ARIMA for Water Level Forecasting: The Case of the Red River**. Advances in Water Resources, 103656. https://doi.org/10.1016/j.advwatres.2020.103656 |   &#9744;   | &#9744; | &#9744; |  |  |
+| Mullapudi, A., Lewis, M. J., Gruden, C. L., & Kerkez, B. (2020). **Deep reinforcement learning for the real time control of stormwater systems**. Advances in Water Resources, 103600. https://doi.org/10.1016/j.advwatres.2020.103600 |   &#9744;   | &#9744; | &#9744; |  |  |
+| Liu, Y., Jing, W., Wang, Q., & Xia, X. (2020). **Generating high-resolution soil moisture by using spatial downscaling techniques: a comparison of six machine learning algorithms**. Advances in Water Resources, 103601. https://doi.org/10.1016/j.advwatres.2020.103601 |   &#9744;   | &#9744; | &#9744; |  |  |
+| Khan, N., Sachindra, D. A., Shahid, S., Ahmed, K., Shiru, M. S., & Nawaz, N. (2020). **Prediction of droughts over Pakistan using machine learning algorithms.  Advances in Water Resources, 139, 103562**. https://doi.org/10.1016/j.advwatres.2020.103562 |   &#9744;   | &#9744; | &#9744; |  |  |
+| Rahman, A. S., Hosono, T., Quilty, J. M., Das, J., & Basak, A. (2020). **Multiscale Groundwater Level Forecasting: Coupling New Machine Learning Approaches with Wavelet Transforms**. Advances in Water Resources, 103595. https://doi.org/10.1016/j.advwatres.2020.103595 |   &#9744;   | &#9744; | &#9744; | &#9745;  |  |
