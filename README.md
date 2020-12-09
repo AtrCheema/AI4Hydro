@@ -68,8 +68,8 @@ The &#9745; for `code` the code to implement the paper is available. In such a c
 
 The &#9745; for `hybrid` means the the developoed methodology is not a pure single machine/deep learning based rather it combines different deep learning and or machine learning approaches possible involving some physically-based model, driving the benefit from each other.
 
-The `reviews` should direct to any review/synopsis or presentation around the study.
+The `reviews` tab if available, will direct to any review/synopsis or presentation around the study.
 
 ## Contirbute
 
-Your contributions especially if you made a review/comment about a particular paper and you want to share that with others like [this]() is highly always welcome.
+Your contributions especially if you made a review/comment about a particular paper and you want to share that with others like [this](https://github.com/AtrCheema/AI4Hydro/blob/master/Water/reviews/Prediction of Chlorophyll-a Concentrations in the Nakdong River.pptx) is highly always welcome.
