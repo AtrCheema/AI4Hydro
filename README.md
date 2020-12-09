@@ -2,57 +2,63 @@ Following journals are tracked
 
 
 
-[Advances in Water Resources](https://github.com/AtrCheema/AIHydro/tree/main/Advances_in_Water_Resources)
+[Advances in Water Resources](https://github.com/AtrCheema/AI4Hydro/tree/master/Advances_in_Water_Resources)
 
-[Agricultural Water Management](https://github.com/AtrCheema/AIHydro/tree/main/Agricultural_Water_Management)
+[Agricultural Water Management](https://github.com/AtrCheema/AI4Hydro/tree/master/Agricultural_Water_Management)
 
-[Earch-Science Reviews](https://github.com/AtrCheema/AIHydro/tree/main/Earth-Science_Reviews)
+[Earch-Science Reviews](https://github.com/AtrCheema/AI4Hydro/tree/master/Earth-Science_Reviews)
 
-[Environmental Impact Assessment](https://github.com/AtrCheema/AIHydro/tree/main/Environmental_Impact_Assessment)
+[Environmental Impact Assessment](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Impact_Assessment)
 
-[Environmental Modeling and Software](https://github.com/AtrCheema/AIHydro/tree/main/Environmental_Modeling_and_Software)
+[Environmental Modeling and Software](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Modeling_and_Software)
 
-[Ground Water](https://github.com/AtrCheema/AIHydro/tree/main/Ground_Water)
+[Environmental_Science_and_Pollution_Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Science_and_Pollution_Research)
 
-[HESS](https://github.com/AtrCheema/AIHydro/tree/main/HESS)
+[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water)
 
-[Hydrogeology Journal](https://github.com/AtrCheema/AIHydro/tree/main/Hydrogeology_Journal)
+[HESS](https://github.com/AtrCheema/AI4Hydro/tree/master/HESS)
 
-[Hydrological Processes](https://github.com/AtrCheema/AIHydro/tree/main/Hydrological_Processes)
+[Hydrogeology Journal](https://github.com/AtrCheema/AI4Hydro/tree/master/Hydrogeology_Journal)
 
-[Hydrolological Sciences Journal](https://github.com/AtrCheema/AIHydro/tree/main/Hydrological_Sciences_Journal)
+[Hydrological Processes](https://github.com/AtrCheema/AI4Hydro/tree/master/Hydrological_Processes)
 
-[Journal of Cleaner Production](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Cleaner_Production)
+[Hydrolological Sciences Journal](https://github.com/AtrCheema/AI4Hydro/tree/master/Hydrological_Sciences_Journal)
 
-[Journal of Contaminant Hydrology](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Contaminant_Hydrology)
+[Journal of Cleaner Production](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Cleaner_Production)
 
-[Journal of Environmental Enginnering](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Environmental_Engineering)
+[Journal of Contaminant Hydrology](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Contaminant_Hydrology)
 
-[Journal of Environmental Management](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Environmental_Management)
+[Journal of Environmental Enginnering](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Environmental_Engineering)
 
-[Journal of Environmental Quality](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Environmental_Quality)
+[Journal of Environmental Management](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Environmental_Management)
 
-[Journal of Environmental Sciences](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Environmental_Sciences)
+[Journal of Environmental Quality](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Environmental_Quality)
 
-[Journal of Hazardous Materials](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Hazardous_Materials)
+[Journal of Environmental Sciences](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Environmental_Sciences)
 
-[Journal of Hydrology](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Hydrology)
+[Journal of Hazardous Materials](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hazardous_Materials)
 
-[Journal of Hydrology: Regional Studies](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Hydrology_regional_studies)
+[Journal of Hydrology](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hydrology)
 
-[Journal of Geophysical Research](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Geophysical_Research)
+[Journal of Hydrology: Regional Studies](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hydrology_regional_studies)
 
-[Journal of Hydraulic Engineering](https://github.com/AtrCheema/AIHydro/tree/main/Journal_of_Hydraulic_Engineering)
+[Journal of Geophysical Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Geophysical_Research)
 
-[Science of Total Environment](https://github.com/AtrCheema/AIHydro/tree/main/Science_of_Total_Environment)
+[Journal of Hydraulic Engineering](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hydraulic_Engineering)
 
-[Water Research](https://github.com/AtrCheema/AIHydro/tree/main/Water_Research)
+[Knowledge_Based_Systems](https://github.com/AtrCheema/AI4Hydro/tree/master/Knowledge_Based_Systems)
 
-[Water Resources Management](https://github.com/AtrCheema/AIHydro/tree/main/Water_Resources_Management)
+[Remote_Sensing](https://github.com/AtrCheema/AI4Hydro/tree/master/Remote_Sensing)
 
-[Water Resources Research](https://github.com/AtrCheema/AIHydro/tree/main/Water_Resources_Research)
+[Science of Total Environment](https://github.com/AtrCheema/AI4Hydro/tree/master/Science_of_Total_Environment)
 
-[Water](https://github.com/AtrCheema/AIHydro/tree/main/Water)
+[Water Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Water_Research)
+
+[Water Resources Management](https://github.com/AtrCheema/AI4Hydro/tree/master/Water_Resources_Management)
+
+[Water Resources Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Water_Resources_Research)
+
+[Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Water)
 
 ## Guide
 
@@ -72,4 +78,4 @@ The `reviews` tab if available, will direct to any review/synopsis or presentati
 
 ## Contirbute
 
-Your contributions especially if you made a review/comment about a particular paper and you want to share that with others like [this](https://github.com/AtrCheema/AI4Hydro/blob/master/Water/reviews/Prediction of Chlorophyll-a Concentrations in the Nakdong River.pptx) is highly always welcome.
+Your contributions especially if you made a review/comment about a particular paper and you want to share it with others like [this](https://github.com/AtrCheema/AI4Hydro/blob/master/Water/reviews/Prediction%20of%20Algal%20Chlorophyll-a%20and%20Water%20Clarity%20in%20Monsoon-Region.pdf) is highly always welcome.

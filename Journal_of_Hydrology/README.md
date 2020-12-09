@@ -94,5 +94,4 @@
 | Liang, Z., Zou, R., Chen, X., Ren, T., Su, H., & Liu, Y. (2020). Simulate the forecast capacity of a complicated water quality model using the long short-term memory approach. Journal of Hydrology, 581, 124432. https://doi.org/10.1016/j.jhydrol.2019.124432 |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Wei, Z. L., Wang, D. F., Sun, H. Y., & Yan, X. (2020). Comparison of a physical model and phenomenological model to forecast groundwater levels in a rainfall-induced deep-seated landslide. Journal of Hydrology, 124894. https://doi.org/10.1016/j.jhydrol.2020.124894 |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Zhou, F., Liu, B., & Duan, K. (2020). Coupling wavelet transform and artificial neural network for forecasting estuarine salinity. Journal of Hydrology, 125127. https://doi.org/10.1016/j.jhydrol.2020.125127 |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
-
-
+| Park, Y., Pachepsky, Y. A., Cho, K. H., Jeon, D. J., & Kim, J. H. (2015). Stressor–response modeling using the 2D water quality model and regression trees to predict chlorophyll-a in a reservoir system. Journal of Hydrology, 529, 805-815. https://doi.org/10.1016/j.jhydrol.2015.09.002 |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
