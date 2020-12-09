@@ -6,6 +6,12 @@ Following journals are tracked
 
 [Agricultural Water Management](https://github.com/AtrCheema/AI4Hydro/tree/master/Agricultural_Water_Management)
 
+[ArXiv](https://github.com/AtrCheema/AI4Hydro/tree/master/ArXiv)
+
+[Earth Surface Processes and Landforms](https://github.com/AtrCheema/AI4Hydro/tree/master/Earth_Surface_Processes_and_Landforms)
+
+[Earth_System_Science_Data](https://github.com/AtrCheema/AI4Hydro/tree/master/Earth_System_Science_Data)
+
 [Earch-Science Reviews](https://github.com/AtrCheema/AI4Hydro/tree/master/Earth-Science_Reviews)
 
 [Environmental Impact Assessment](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Impact_Assessment)
@@ -14,9 +20,11 @@ Following journals are tracked
 
 [Environmental Science and Pollution Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Science_and_Pollution_Research)
 
-[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water)
+[Geophysical Research Letters](https://github.com/AtrCheema/AI4Hydro/tree/master/Geophysical_Research_Letters)
 
-[Geoscientific_Model_Development](https://github.com/AtrCheema/AI4Hydro/tree/master/Geoscientific_Model_Development)
+[Geoscientific Model Development](https://github.com/AtrCheema/AI4Hydro/tree/master/Geoscientific_Model_Development)
+
+[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water)
 
 [HESS](https://github.com/AtrCheema/AI4Hydro/tree/master/HESS)
 
@@ -48,9 +56,17 @@ Following journals are tracked
 
 [Journal of Hydraulic Engineering](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hydraulic_Engineering)
 
+[Journal of Hydrometeorology](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hydrometeorology)
+
 [Knowledge Based Systems](https://github.com/AtrCheema/AI4Hydro/tree/master/Knowledge_Based_Systems)
 
+[Mathematical Geosciences](https://github.com/AtrCheema/AI4Hydro/tree/master/Mathematical_Geosciences)
+
 [Remote Sensing](https://github.com/AtrCheema/AI4Hydro/tree/master/Remote_Sensing)
+
+[Natural Hazards and Earth System Sciences](https://github.com/AtrCheema/AI4Hydro/tree/master/Natural_Hazards_and_Earth_System_Sciences)
+
+[Nature Scientific Data](https://github.com/AtrCheema/AI4Hydro/tree/master/Nature_Scientific_Data)
 
 [Science of Total Environment](https://github.com/AtrCheema/AI4Hydro/tree/master/Science_of_Total_Environment)
 
