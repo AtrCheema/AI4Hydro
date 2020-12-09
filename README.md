@@ -14,7 +14,7 @@ Following journals are tracked
 
 [Environmental Science and Pollution Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Science_and_Pollution_Research)
 
-[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water) Geoscientific_Model_Development
+[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water)
 
 [Geoscientific_Model_Development](https://github.com/AtrCheema/AI4Hydro/tree/master/Geoscientific_Model_Development)
 
