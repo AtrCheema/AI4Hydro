@@ -12,9 +12,11 @@ Following journals are tracked
 
 [Environmental Modeling and Software](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Modeling_and_Software)
 
-[Environmental_Science_and_Pollution_Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Science_and_Pollution_Research)
+[Environmental Science and Pollution Research](https://github.com/AtrCheema/AI4Hydro/tree/master/Environmental_Science_and_Pollution_Research)
 
-[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water)
+[Ground Water](https://github.com/AtrCheema/AI4Hydro/tree/master/Ground_Water) Geoscientific_Model_Development
+
+[Geoscientific_Model_Development](https://github.com/AtrCheema/AI4Hydro/tree/master/Geoscientific_Model_Development)
 
 [HESS](https://github.com/AtrCheema/AI4Hydro/tree/master/HESS)
 
@@ -46,9 +48,9 @@ Following journals are tracked
 
 [Journal of Hydraulic Engineering](https://github.com/AtrCheema/AI4Hydro/tree/master/Journal_of_Hydraulic_Engineering)
 
-[Knowledge_Based_Systems](https://github.com/AtrCheema/AI4Hydro/tree/master/Knowledge_Based_Systems)
+[Knowledge Based Systems](https://github.com/AtrCheema/AI4Hydro/tree/master/Knowledge_Based_Systems)
 
-[Remote_Sensing](https://github.com/AtrCheema/AI4Hydro/tree/master/Remote_Sensing)
+[Remote Sensing](https://github.com/AtrCheema/AI4Hydro/tree/master/Remote_Sensing)
 
 [Science of Total Environment](https://github.com/AtrCheema/AI4Hydro/tree/master/Science_of_Total_Environment)
 
