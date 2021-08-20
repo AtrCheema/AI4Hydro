@@ -21,3 +21,21 @@ This page enlists the websites, blogs, tutorials which are extremely useful for 
 # Resources
 
 [Earch Data Science](https://www.earthdatascience.org/)
+
+[HEPEX](https://hepex.inrae.fr/)
+
+[European weather forecast community](https://www.ecmwf.int/en/learning)
+
+[Intel's developer program for AI](https://software.intel.com/content/www/us/en/develop/topics/ai.html)
+
+[nvidia gtc](https://www.nvidia.com/en-us/gtc/)
+
+[nvidia on demand](https://www.nvidia.com/en-us/on-demand/)
+
+[nvidia develope-program](https://developer.nvidia.com/developer-program)
+
+[nvidia ai blog](https://blogs.nvidia.com/blog/category/deep-learning/)
+
+[anaconda cloud](https://anaconda.cloud/)
+
+[enthought webinars](https://www.enthought.com/webinars/)
