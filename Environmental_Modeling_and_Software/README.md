@@ -3,6 +3,7 @@
 
 | Citation           | explainable-AI | data   | code | hybrid |   reviews  |
 |--------------------|----------------|--------|------|--------|------------|
+| Sikorska-Senoner, A. E., & Quilty, J. M. (2021). A novel ensemble-based conceptual-data-driven approach for improved streamflow simulations. Environmental Modelling & Software, 105094. https://doi.org/10.1016/j.envsoft.2021.105094  | &#9744;   | &#9744; | &#9745; | &#9744;  |  |
 | Gauch, M., Mai, J., & Lin, J. (2020). The proper care and feeding of CAMELS: How limited training data affects streamflow prediction. Environmental Modelling & Software, 104926. 10.1016/j.envsoft.2020.104926 | &#9744;   | &#9744; | &#9745; | &#9744;  |  |
 | Russo, S., Lürig, M., Hao, W., Matthews, B., & Villez, K. (2020). **Active learning for anomaly detection in environmental data**. Environmental Modelling & Software, 134, 104869. https://doi.org/10.1016/j.envsoft.2020.104869 |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Jang, W. S., Engel, B., & Yeum, C. M. (2020). **Integrated environmental modeling for efficient aquifer vulnerability assessment using machine learning**.  Environmental Modelling & Software, 124, 104602. https://doi.org/10.1016/j.envsoft.2019.104602 |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |

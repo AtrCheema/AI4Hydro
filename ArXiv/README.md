@@ -3,6 +3,7 @@
 
 | Citation           | explainable-AI | data   | code | hybrid |   reviews  |
 |--------------------|----------------|--------|------|--------|------------|
+| Papacharalampous, G., Tyralis, H., Pechlivanidis, I. G., Grimaldi, S., & Volpi, E. (2021). Massive feature extraction for explaining and foretelling hydroclimatic time series forecastability at the global scale. arXiv preprint arXiv:2108.00846.  | &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Santos, J. E., Yin, Y., Jo, H., Pan, W., Kang, Q., Viswanathan, H. S., ... & Lubbers, N. (2021). COMPUTATIONALLY EFFICIENT MULTISCALE NEURAL NETWORKS APPLIED TO FLUID FLOW IN COMPLEX 3D POROUS MEDIA A PREPRINT. | &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Ouyang, W., Lawson, K., Feng, D., Ye, L., Zhang, C., & Shen, C. (2021). Continental-scale streamflow modeling of basins with reservoirs: a demonstration of effectiveness and a delineation of challenges. arXiv preprint arXiv:2101.04423. | &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Hoedt, P. J., Kratzert, F., Klotz, D., Halmich, C., Holzleitner, M., Nearing, G., ... & Klambauer, G. (2021). MC-LSTM: Mass-Conserving LSTM. arXiv preprint arXiv:2101.05186. | &#9744;   | &#9744; | &#9745; | &#9744;  |  |

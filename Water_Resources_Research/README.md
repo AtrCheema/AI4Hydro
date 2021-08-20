@@ -3,6 +3,7 @@
 
 | Citation           | explainable-AI | data   | code | hybrid |   reviews  |
 |--------------------|----------------|--------|------|--------|------------|
+| Bennett, A., & Nijssen, B. (2021). Deep learned process parameterizations provide better representations of turbulent heat fluxes in hydrologic models. Water Resources Research, 57(5), e2020WR029328.  https://doi.org/10.1029/2020WR029328  |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Ma, K., Feng, D., Lawson, K., Tsai, W. P., Liang, C., Huang, X., ... & Shen, C. Transferring hydrologic data across continents‐‐leveraging data‐rich regions to improve hydrologic prediction in data‐sparse regions. Water Resources Research, e2020WR028600. https://doi.org/10.1029/2020WR028600  |   &#9744;   | &#9744; | &#9744; | &#9744;  |  |
 | Sun, A. Y., Scanlon, B. R., Zhang, Z., Walling, D., Bhanja, S. N., Mukherjee, A., & Zhong, Z. (2019). **Combining physically based modeling and deep learning for fusing GRACE satellite data: Can we learn from mismatch?**. Water Resources Research, 55(2), 1179-1195. https://doi.org/10.1029/2018WR023333  |   &#9745;   | &#9744; | &#9744; | &#9744;  |  |
 | Mewes, B., Oppel, H., Marx, V., & Hartmann, A. (2020). **Information?based machine learning for tracer signature prediction in karstic environments**. Water Resources Research, 56(2), e2018WR024558. https://doi.org/10.1029/2018WR024558  |   &#9745;   | &#9744; | &#9744; | &#9744;  |  |
